@@ -27,5 +27,5 @@ msgid "String3"
 msgstr ""
 
 #: foo/templates/bar.html:184
-msgid "Country"
+msgid "Country2"
 msgstr ""
