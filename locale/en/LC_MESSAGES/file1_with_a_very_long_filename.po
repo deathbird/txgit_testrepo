@@ -25,7 +25,3 @@ msgstr ""
 #: foo/templates/bar.html:180
 msgid "Address"
 msgstr ""
-
-#: foo/templates/bar.html:181
-msgid "Religion"
-msgstr ""

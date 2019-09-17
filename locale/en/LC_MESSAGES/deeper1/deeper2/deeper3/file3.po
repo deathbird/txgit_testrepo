@@ -27,5 +27,9 @@ msgid "Address"
 msgstr ""
 
 #: foo/templates/bar.html:181
-msgid "Religion"
+msgid "Social Security No"
+msgstr ""
+
+#: foo/templates/bar.html:182
+msgid "State"
 msgstr ""
