@@ -15,21 +15,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: actionlog/templates/object_action_list.html:7 txpermissions/forms.py:18
-msgid "Username"
+msgid "String1"
 msgstr ""
 
 #: actionlog/templates/object_action_list.html:8
-msgid "Lastname"
+msgid "String2"
 msgstr ""
 
 #: foo/templates/bar.html:180
-msgid "Address"
+msgid "String3"
 msgstr ""
 
-#: foo/templates/bar.html:181
-msgid "Social Security No"
-msgstr ""
-
-#: foo/templates/bar.html:182
-msgid "State"
+#: foo/templates/bar.html:184
+msgid "Country2"
 msgstr ""
