@@ -29,3 +29,7 @@ msgstr ""
 #: foo/templates/bar.html:181
 msgid "String4"
 msgstr ""
+
+#: foo/templates/bar.html:185
+msgid "String5"
+msgstr ""
