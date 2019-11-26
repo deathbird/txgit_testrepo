@@ -1,7 +1,6 @@
 # FIRST AUTHOR <email@address>, YEAR.
 # 
 # Translators:
-# Giannos Dimas <jack_dimas@yahoo.com>, 2019
 # Giannos Transifex Dimas <giannosdim@transifex.com>, 2019
 # 
 msgid ""
@@ -20,7 +19,7 @@ msgstr ""
 
 #: actionlog/templates/object_action_list.html:7 txpermissions/forms.py:18
 msgid "Username"
-msgstr "Username"
+msgstr "xxx hello!"
 
 #: actionlog/templates/object_action_list.html:8
 msgid "Lastname"
