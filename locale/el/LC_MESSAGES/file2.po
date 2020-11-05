@@ -1,16 +1,16 @@
 # FIRST AUTHOR <email@address>, YEAR.
 # 
 # Translators:
-# Giannos Dimas <giannosdim@transifex.com>, 2019
+# Giannos Dimas <jack_dimas@yahoo.com>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Transifex\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-29 12:41+0000\n"
-"PO-Revision-Date: 2019-09-13 09:53+0000\n"
-"Last-Translator: Giannos Dimas <giannosdim@transifex.com>, 2019\n"
-"Language-Team: Greek (https://example.com/journehyman-ltd/teams/1/el/)\n"
+"PO-Revision-Date: 2019-10-11 15:02+0000\n"
+"Last-Translator: Giannos Dimas <jack_dimas@yahoo.com>, 2020\n"
+"Language-Team: Greek (https://www.transifex.com/journeyman-ltd/teams/103924/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,13 +18,140 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: actionlog/templates/object_action_list.html:7 txpermissions/forms.py:18
-msgid "String1"
-msgstr "Κείμενο 1"
+msgid ""
+"The Civil Emergency Planning Committee (CEPC) is operating within the "
+"context of the political pillar of NATO; all the countries of the alliance "
+"are represented in it."
+msgstr ""
+"Η Επιτροπή πολιτικού σχεδιασμού έκτακτης ανάγκης (CEPC) λειτουργεί στο "
+"πλαίσιο του πολιτικού πυλώνα του ΝΑΤΟ · Όλες οι χώρες της Συμμαχίας "
+"εκπροσωπούνται σε αυτήν."
 
 #: actionlog/templates/object_action_list.html:8
-msgid "String2"
-msgstr "Κείμενο 2"
+msgid ""
+"The Euro Atlantic Disaster Response Coordination Center (EADRCC), which "
+"comprises NATO's mechanism for the response to natural and technological "
+"disasters, is also operating under CEPC."
+msgstr ""
+"Το κέντρο συντονισμού για την αντιμετώπιση καταστροφών του ευρώ στον "
+"Ατλαντικό, το οποίο περιλαμβάνει τον μηχανισμό του ΝΑΤΟ για την αντιμετώπιση"
+" φυσικών και τεχνολογικών καταστροφών, λειτουργεί επίσης στο πλαίσιο της "
+"CEPC."
 
 #: foo/templates/bar.html:180
-msgid "String3"
-msgstr "Κείμενο 3"
+msgid ""
+"The materials in this section explain the connection between interest rates,"
+" inflation and the Eurosystem's key mission - maintaining price stability."
+msgstr ""
+"Τα υλικά σε αυτή την ενότητα εξηγούν τη σχέση μεταξύ των επιτοκίων, του "
+"πληθωρισμού και της βασικής αποστολής του Ευρωσυστήματος-τη διατήρηση της "
+"σταθερότητας των τιμών."
+
+#: foo/templates/bar.html:181
+msgid ""
+"It was the world's largest ever monetary changeover involving the banking "
+"sector, security carriers, retailers, the cahs-operated machine industry and"
+" the general public."
+msgstr ""
+"Ήταν η μεγαλύτερη νομισματική μετάβαση στον κόσμο που αφορούσε τον τραπεζικό"
+" τομέα, τους μεταφορείς ασφαλείας, τους λιανοπωλητές, τη βιομηχανία μηχανών "
+"που λειτουργούσε με cahs και το ευρύ κοινό."
+
+#: foo/templates/bar.html:185
+msgid ""
+"An international jury of renowned experts in marketing, design and art "
+"history participated in the selection process and, at the same time, a "
+"public survey was conducted in the EU 14 Member States."
+msgstr ""
+"Μια διεθνής κριτική επιτροπή διακεκριμένου εμπειρογνώμονα στο μάρκετινγκ, το"
+" σχεδιασμό και την ιστορία της τέχνης συμμετείχε στη διαδικασία επιλογής "
+"και, ταυτόχρονα, διεξήχθη δημόσια έρευνα στα 14 κράτη μέλη της ΕΕ."
+
+#: foo/templates/bar.html:186
+msgid ""
+"Trees were swaying , though gently , and their leaves were rustling as if in"
+" applause to the change in the weather. This had been going on for several "
+"days . The men and women who gauge the climate on television were exultant "
+"over the unusual run of good weather as if it was they who had brought it on"
+" ."
+msgstr ""
+"Τα δέντρα ταλαντεύονται, αν και απαλά, και τα φύλλα τους ήταν θρόισμα σαν να"
+" χειροκροτούν την αλλαγή του καιρού. Αυτό συνέβαινε εδώ και αρκετές μέρες. "
+"Οι άνδρες και οι γυναίκες που μετρήσαν το κλίμα στην τηλεόραση ήταν πιο "
+"καλές από την ασυνήθιστη διάρκεια του καλού καιρού σαν να ήταν αυτοί που το "
+"είχαν φέρει."
+
+#: foo/templates/bar.html:185
+msgid ""
+"Synthesizing knowledge of the connections between above-surface and below-"
+"surface biodiversity was considered a priority to be addressed at a second "
+"workshop , since it would help to yield information on keystone species and "
+"interactions in ecosystem processes assess the extent of species"
+msgstr ""
+"Η σύνθεση των γνώσεων σχετικά με τις συνδέσεις μεταξύ της υψηλής επιφανείας "
+"και της βιοποικιλότητας κάτω από την επιφάνεια θεωρήθηκε ως προτεραιότητα "
+"που πρέπει να αντιμετωπιστεί σε ένα δεύτερο εργαστήρι, καθώς θα βοηθούσε "
+"στην απόδοση πληροφοριών σχετικά με τα είδη και τις αλληλεπιδράσεις σε "
+"διαδικασίες οικοσυστήματος αξιολόγηση της έκτασης των ειδών"
+
+#: foo/templates/bar.html:185
+msgid ""
+"Already a legend in his native China , the big center was poised to test his"
+" mettle against the best basketball players in the world . In eight NBA "
+"seasons , Yao made eight All-Star rosters , averaged 19 points and 9 "
+"rebounds , and was named to the All-NBA team five times . He was also a "
+"three-time gold medalist"
+msgstr ""
+"Ήδη ένας θρύλος στην ντόπια Κίνα του, το μεγάλο κέντρο ήταν έτοιμο να "
+"δοκιμάσει το σθένος του ενάντια στους καλύτερους παίκτες μπάσκετ στον κόσμο."
+" Σε οκτώ εποχές του NBA, ο Γιάο έφτιαξε οκτώ μονάδες All-Star, κατά μέσο όρο"
+" 19 πόντους και 9 ριμπάουντ, και ονομάστηκε στην ομάδα All-NBA πέντε φορές. "
+"Ήταν επίσης τρεις φορές χρυσός Ολυμπιονίκης."
+
+#: foo/templates/bar.html:185
+msgid "Submit"
+msgstr "Υποβάλει"
+
+#: foo/templates/bar.html:185
+msgid "Upload a TM file to use in this project."
+msgstr "Ανεβάστε ένα αρχείο TM για χρήση σε αυτό το έργο. GR."
+
+#: foo/templates/bar.html:185
+msgid ""
+"Machine Translation is set globally on organization level. You can override "
+"organization's settings for this project."
+msgstr ""
+"Η μηχανική μετάφραση ορίζεται καθολικά σε επίπεδο οργανισμού. Μπορείτε να "
+"παρακάμψετε τις ρυθμίσεις του οργανισμού για αυτό το έργο."
+
+#: foo/templates/bar.html:185
+msgid ""
+"Make another organization the owner of this project (your translations will "
+"not be lost)."
+msgstr ""
+"Κάντε έναν άλλο οργανισμό ιδιοκτήτη αυτού του έργου (οι μεταφράσεις σας δεν "
+"θα χαθούν)."
+
+#: foo/templates/bar.html:185
+msgid ""
+"A private project is visible only by you and your team. Moreover, private "
+"projects are limited according to billing plans for the user account."
+msgstr ""
+"Ένα ιδιωτικό έργο είναι ορατό μόνο από εσάς και την ομάδα σας. Επιπλέον, τα "
+"ιδιωτικά έργα περιορίζονται σύμφωνα με τα σχέδια χρέωσης για το λογαριασμό "
+"χρήστη."
+
+#: foo/templates/bar.html:185
+msgid ""
+"Non-commercial Open Source projects are ones licensed under an OSI-approved "
+"license, such as GPL or BSD, with publicly available source code and no "
+"funding, revenue, and/or commercialization model."
+msgstr ""
+"Τα έργα μη εμπορικού ανοιχτού κώδικα είναι αυτά που έχουν αδειοδοτηθεί στο "
+"πλαίσιο μιας άδειας που έχει εγκριθεί από την περιοχή, όπως η GPL ή η BSD, "
+"με διαθέσιμο στο κοινό πηγαίο κώδικα και χωρίς χρηματοδότηση, έσοδα ή/και "
+"μοντέλο εμπορευματοποίησης."
+
+#: foo/templates/bar.html:185
+msgid "Translator Instructions URL"
+msgstr "Διεύθυνση URL οδηγιών μετάφρασης"
