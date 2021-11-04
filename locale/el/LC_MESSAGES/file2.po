@@ -1,16 +1,16 @@
 # FIRST AUTHOR <email@address>, YEAR.
 # 
 # Translators:
-# Giannos Dimas <giannosdim@transifex.com>, 2019
+# Fotis Athinaios <giannosdim@transifex.com>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Transifex\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-29 12:41+0000\n"
-"PO-Revision-Date: 2019-09-13 09:53+0000\n"
-"Last-Translator: Giannos Dimas <giannosdim@transifex.com>, 2019\n"
-"Language-Team: Greek (https://example.com/journehyman-ltd/teams/1/el/)\n"
+"PO-Revision-Date: 2021-11-04 07:55+0000\n"
+"Last-Translator: Fotis Athinaios <giannosdim@transifex.com>, 2021\n"
+"Language-Team: Greek (https://example.com/journeyman/teams/81/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,13 +18,98 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: actionlog/templates/object_action_list.html:7 txpermissions/forms.py:18
-msgid "String1"
-msgstr "Κείμενο 1"
+msgid ""
+"The Civil Emergency Planning Committee (CEPC) is operating within the "
+"context of the political pillar of NATO; all the countries of the alliance "
+"are represented in it."
+msgstr ""
 
 #: actionlog/templates/object_action_list.html:8
-msgid "String2"
-msgstr "Κείμενο 2"
+msgid ""
+"The Euro Atlantic Disaster Response Coordination Center (EADRCC), which "
+"comprises NATO's mechanism for the response to natural and technological "
+"disasters, is also operating under CEPC."
+msgstr ""
 
 #: foo/templates/bar.html:180
-msgid "String3"
-msgstr "Κείμενο 3"
+msgid ""
+"The materials in this section explain the connection between interest rates,"
+" inflation and the Eurosystem's key mission - maintaining price stability."
+msgstr "Î·Î·Î·Î·Î· Î²Î²Î²Î² Î³Î³Î³Î³Î³"
+
+#: foo/templates/bar.html:181
+msgid ""
+"It was the world's largest ever monetary changeover involving the banking "
+"sector, security carriers, retailers, the cahs-operated machine industry and"
+" the general public."
+msgstr "Î³Î³Î³Î³Î³Î³ ÏÏÏÏÏ "
+
+#: foo/templates/bar.html:185
+msgid ""
+"An international jury of renowned experts in marketing, design and art "
+"history participated in the selection process and, at the same time, a "
+"public survey was conducted in the EU 14 Member States."
+msgstr ""
+
+#: foo/templates/bar.html:186
+msgid ""
+"Trees were swaying , though gently , and their leaves were rustling as if in"
+" applause to the change in the weather. This had been going on for several "
+"days . The men and women who gauge the climate on television were exultant "
+"over the unusual run of good weather as if it was they who had brought it on"
+" ."
+msgstr "Î´Î´Î´Î´Î´Î´ Î²Î²Î²Î² Î±Î±Î±Î±Î±Î±"
+
+#: foo/templates/bar.html:185
+msgid ""
+"Synthesizing knowledge of the connections between above-surface and below-"
+"surface biodiversity was considered a priority to be addressed at a second "
+"workshop , since it would help to yield information on keystone species and "
+"interactions in ecosystem processes assess the extent of species"
+msgstr ""
+
+#: foo/templates/bar.html:185
+msgid ""
+"Already a legend in his native China , the big center was poised to test his"
+" mettle against the best basketball players in the world . In eight NBA "
+"seasons , Yao made eight All-Star rosters , averaged 19 points and 9 "
+"rebounds , and was named to the All-NBA team five times . He was also a "
+"three-time gold medalist"
+msgstr ""
+
+#: foo/templates/bar.html:185
+msgid "Submit"
+msgstr ""
+
+#: foo/templates/bar.html:185
+msgid "Upload a TM file to use in this project."
+msgstr ""
+
+#: foo/templates/bar.html:185
+msgid ""
+"Machine Translation is set globally on organization level. You can override "
+"organization's settings for this project."
+msgstr ""
+
+#: foo/templates/bar.html:185
+msgid ""
+"Make another organization the owner of this project (your translations will "
+"not be lost)."
+msgstr ""
+
+#: foo/templates/bar.html:185
+msgid ""
+"A private project is visible only by you and your team. Moreover, private "
+"projects are limited according to billing plans for the user account."
+msgstr ""
+
+#: foo/templates/bar.html:185
+msgid ""
+"Non-commercial Open Source projects are ones licensed under an OSI-approved "
+"license, such as GPL or BSD, with publicly available source code and no "
+"funding, revenue, and/or commercialization model."
+msgstr ""
+
+#: foo/templates/bar.html:185
+msgid "Translator Instructions URL"
+msgstr ""
