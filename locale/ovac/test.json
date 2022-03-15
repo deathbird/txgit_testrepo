@@ -1,0 +1,14 @@
+{
+    "singular_key": {
+        "string": "This is a regular string.",
+        "context": "Additional context:.....",
+        "developer_comment": "This is a pluralized string1 with special character",
+        "character_limit": 150
+    },
+    "total_files": {
+        "string": "{ file_count, plural, one {You have {file_count} file.} other {You have {file_count}files.} }",
+        "context": "Additional context3:.....",
+        "developer_comment": "This is a pluralized string2 with special character",
+        "character_limit": 250
+    }
+}
