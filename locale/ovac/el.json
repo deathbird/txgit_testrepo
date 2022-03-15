@@ -1,0 +1,14 @@
+{
+    "singular_key": {
+        "string": "Αυτή είναι μια κανονική χορδή.",
+        "context": "Additional context:.....",
+        "developer_comment": "This is a pluralized string1 with special character",
+        "character_limit": 150
+    },
+    "total_files": {
+        "string": "{ file_count, plural, one {Έχετε αρχείο {file_count}.} other {Έχετε {file_count}αρχεία.} }",
+        "context": "Additional context3:.....",
+        "developer_comment": "This is a pluralized string2 with special character",
+        "character_limit": 250
+    }
+}
